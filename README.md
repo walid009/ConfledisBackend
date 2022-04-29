@@ -1,4 +1,4 @@
 ## Quick Start
 - cd my-app  
 - npm install
-- npm start
+- node server.js
